@@ -1,0 +1,8 @@
+1.   Git is a popular version control system, in simple sense it help's a team to work on same project efficiently . i.e., by helping keep track the code changes, who made changes .etc...
+2.   VCS is a system which records changes done in a file or set of files. we can recall specific versions later, i.e., for every source code changes in a file a new version will be created.
+3.    GitHub is a website where many developers make collaboration with there team's or some company's like open source community publish there code in odder to have some help to make a app or a software more UpToDate and have some idea's from different mind's.
+4.     BItbucket ,Gitlab, perforce, beanstalk, codevase etc...
+5.     two type of version control system-  (i) centralized VCS and (ii) distributed VCS
+6.     Tracking code changes, Tracking who made changes like history of the files, Coding Collaborations
+7.     Git repository is a folder in GitHub in which we store the file and work on it in odder to make it more perfect and the every changes we commit it take's record of it.
+8.      To create a new repo, we use " git init " command. Executing this command will create a new " .git " subdirectory in your current working directory. This will also create a new main branch. 
